@@ -25,19 +25,19 @@ This project implements and simulates an 8-bit Arithmetic Logic Unit (ALU) using
 - Using genus "report area" for Area report
 
 ## Schematic Diagram
-![Schematic Diagram](Schematic Diagram.png)
+![Schematic Diagram](Schematic_Diagram.png)
 
 ## Output Waveform
-![Output Waveform](Output waveform.png)
+![Output Waveform](Output_waveform.png)
 
 ## Area Report
-![Area Report](Area report.png)
+![Area Report](Area_report.png)
 
 ## Timing Report
-![Timing Report](Timing report.png)
+![Timing Report](Timing_report.png)
 
 ## Power Report
-![Power Report](power report.png)
+![Power Report](power_report.png)
 
 ## Applications
 - Embedded systems
